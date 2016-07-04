@@ -1,0 +1,23 @@
+{
+  "name": "every",
+  "version": "0.0.0",
+  "description": "\"Basically, use it instead of ' * * * * * * ' when setting up CRON in nodeJS.\"",
+  "main": "every.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admsk2/everyjs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "CRON"
+  ],
+  "author": "admsk2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admsk2/everyjs/issues"
+  },
+  "homepage": "https://github.com/admsk2/everyjs#readme"
+}
