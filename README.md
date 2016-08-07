@@ -49,11 +49,11 @@ You have following options to choose:
 3. Hours - **every(1-12, 'hours')**
 4. Days - **every(1-15, 'days')**
 5. Months - **every(1-6, 'months')**
-6. Days Of Week* - *every('monday')**
+6. Days Of Week* - **every('monday')**
 
 *look usage below, this one requires different method
 
-The return of this method is a CRON pattern with proper rule. e.g. **'*/30 * * * * *'** for **every(30, 'seconds)**
+The return of this method is a CRON pattern with proper rule. e.g. **'*/30 * * * * *'** for **every(30, 'seconds)**.
 
 ### Usage
 
