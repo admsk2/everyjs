@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/admsk2/everyjs/issues"
   },
-  "homepage": "https://github.com/admsk2/everyjs#readme"
+  "homepage": "https://github.com/admsk2/everyjs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }
