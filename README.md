@@ -10,8 +10,14 @@ node-cron info:
 ### Important
 This version does not cover patterns which are higher than the half of maximum value. For example, you can not set **CRON** every 45 minutes, 55 seconds, 15 hours, 7 months etc. This functionality is still in progress.
 
-### About
+### Install
+Include this piece of code into your project as follows:
 
+```
+var every = require('everyjs');
+```
+
+### About
 Usually, node-cron is called following way:
 
 ```
